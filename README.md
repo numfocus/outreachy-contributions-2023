@@ -14,7 +14,7 @@ In open-source software projects, the rules and customs that define who gets to 
 2. Take a look at your assigned project to get an understanding of what they do, where and how they engage with community and how a someone can contribute to the project etc.
 3. Locate the project's governance model.  Some projects have it on their websites, some have it on their main repo.
 4. Review the governance model to get an understanding of the ways the project governs itself ie. leadership structure, decision making procedures etc.
-5. When you're ready, create an issue in this repository.
+5. When you're ready, [create an issue in this repository](https://github.com/numfocus/outreachy-contributions-2023/issues).
 6. Add an appropriate label from those available.
 7. Add the following to your issue:
      - Your name

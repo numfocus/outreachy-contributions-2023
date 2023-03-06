@@ -5,7 +5,7 @@ We are excited that you are interested in contributing to our project.
 
 Our project focuses on Open Source Governance Models.
 
-## Definition of Governance Model:  
+## Definition of a Governance Model:  
 
 In open-source software projects, the rules and customs that define who gets to do what, how they are supposed to do it and when is called a project’s "governance model." Understanding a project's governance model can help you make a successful, positive contribution to a project.
 

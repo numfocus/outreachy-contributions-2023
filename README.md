@@ -9,6 +9,9 @@ Our project focuses on Open Source Governance Models.
 
 In open-source software projects, the rules and customs that define who gets to do what, how they are supposed to do it and when is called a project’s "governance model." Understanding a project's governance model can help you make a successful, positive contribution to a project.
 
+Another definition ... project governance
+Project Governance is the set of rules, procedures and policies that determine how projects are managed and overseen. These rules and procedures define how decisions are made during projects. As part of the oversight process, project governance also determines the metrics by which project success is measured.
+
 ## Contribution Tasks:
 1. Email our mentor, Arliss Collins, at arliss@numfocus.org and introduce yourself.  Arliss will send you the link to an open source project in her Welcome email.
 2. Take a look at your assigned project to get an understanding of what they do, where and how they engage with community and how a someone can contribute to the project etc.

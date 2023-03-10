@@ -17,8 +17,7 @@ Another definition ... project governance is the set of rules, procedures and po
 3. Locate the project's governance model.  Some projects have it on their websites, some have it on their main repo.
 4. Review the governance model to get an understanding of the ways the project governs itself ie. leadership structure, decision making procedures etc.
 5. When you're ready, [create an issue in this repository](https://github.com/numfocus/outreachy-contributions-2023/issues).
-6. Add an appropriate label from those available.
-7. Add the following to your issue:
+6. Add the following to your issue:
      - Your name
      - The project you were assigned
      - Link(s) to the project governance model
@@ -27,4 +26,4 @@ Another definition ... project governance is the set of rules, procedures and po
           - any project roles (just the names are fine)
           - the decision-making process ie. voting procedures, approval process etc.
           - how easy or difficult it was to find and understand the governance model
-8. When you are finished cc @arliss-NF in a Comment on your issue
+7. When you are finished cc @arliss-NF in a Comment on your issue

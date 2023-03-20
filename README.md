@@ -43,3 +43,6 @@ Another definition ... project governance is the set of rules, procedures and po
      - Any links you think are relevant
      - Your written analysis
 7. When you are finished cc @arliss-NF in a Comment on your issue
+
+## Contrbution Task 3:
+Please share a link or upload a sample of your written work, i.e. a blog post, an essay etc.  If the work showcases any research skills, all the better!
